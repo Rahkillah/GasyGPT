@@ -1,0 +1,38 @@
+{
+  "intents": [
+      {
+          "tag": "slt",
+          "patterns": ["Salama", "Ao veee", "yo", "Salut", "slt"],
+          "fampidirana": ["mmh"],
+          "responses": [
+              "Salamee, in n azoko atao anao ?",
+              "salut, in n azo atao ?",
+              "slt, in n ketrika androany",
+              "ieee, in vaovao",
+              "ok, in ny ataontsika androany"
+          ],
+          "famaranana": ["", "", "", "", ""]
+      },
+      {
+          "tag": "aretina",
+          "patterns": ["fadim-bolana", "regles", "tonga fotoana", "menstruations"],
+          "fampidirana": [
+              "aaayy : ",
+              "aay vee : ",
+              "otranzao ny fanaovana azy : ",
+              "ok : ",
+              "ty ar : "
+          ],
+          "responses": [
+              "-misotro rano mafana betsaka, mihinana persil 1 andro mialoha, orana citron ny kibo\n -mihinana sokola tonga dia manasitrana\n -Rano bien sucrée\n -mandeha matetika eo ambony vatokely tsy manao kapa na kiraro na mandeha tongotra pieds nus matetika\n -Mitsako tongolo oignon iray,\n -Misotro rano-mangahazo lena.Efa masaka io an.@ le izy marary iny no misotro. Mahandro mangahazo lena zany enao d le ranony no sotroina . 1 na 2 kaopy d ampy\n"
+          ],
+          "famaranana": [
+              "So d mbl misy zvtr tinao anontaniana ?",
+              "Mino aho fa nahafapo ny valiny",
+              "izay n azo atolotra aloa",
+              "mety mahavaly ny fanontanianao ve ?",
+              "ok, fanontaniana manaraka"
+          ]
+      }
+  ]
+}
