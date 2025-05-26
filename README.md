@@ -61,4 +61,4 @@ GasyGPT/
 └── README.md            # Ce fichier README
 ```
 ## License
-© [RANDRIANAOVO Andrandraina](https://facebook.com.com/andrandraina.10)
+© [RANDRIANAOVO Andrandraina](https://www.linkedin.com/in/andrandraina-randrianaivo-562aa3282/)
